@@ -10,6 +10,5 @@ public class Main {
             for(String st3: st2) {
                 System.out.println(st3);
             }
-
     }
 }
